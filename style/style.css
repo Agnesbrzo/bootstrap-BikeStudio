@@ -57,8 +57,9 @@ button.navbar-toggler {
   z-index: -2;
 }
 .text-welcome {
-  font-size: 2rem;
+  font-size: 1.8rem;
   text-transform: uppercase;
+  letter-spacing: 1.5px;
 }
 .header-button {
   font-size: 1.8rem;
