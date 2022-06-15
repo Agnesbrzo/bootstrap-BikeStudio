@@ -7,7 +7,11 @@ html {
   font-size: 62.5%;
   scroll-behavior: smooth;
 }
-
+.accordion {
+  --bs-accordion-active-bg: #ffed9d;
+  --bs-accordion-active-color: #242424;
+  --bs-accordion-bg: #eeeeee;
+}
 body {
   font-family: "Roboto", sans-serif;
   font-size: 1.6rem;
@@ -73,4 +77,10 @@ button.navbar-toggler {
 
 .aboutus i {
   font-size: 3.3rem;
+}
+.accordion-button {
+  font-size: 1.75rem;
+  padding: 1.8rem;
+
+  line-height: 2.8rem;
 }
