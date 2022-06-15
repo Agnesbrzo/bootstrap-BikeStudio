@@ -65,3 +65,12 @@ button.navbar-toggler {
   font-size: 1.8rem;
   text-transform: uppercase;
 }
+
+/* card section */
+.aboutus .card-title {
+  font-size: 2.1rem;
+}
+
+.aboutus i {
+  font-size: 3.3rem;
+}
