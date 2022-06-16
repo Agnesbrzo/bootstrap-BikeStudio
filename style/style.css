@@ -84,3 +84,17 @@ button.navbar-toggler {
 
   line-height: 2.8rem;
 }
+
+/* bikes section */
+.bikes img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.bikes .card-title {
+  font-size: 2rem;
+}
+
+.bikes .card {
+  --bs-card-border-width: 0;
+}
