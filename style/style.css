@@ -98,3 +98,13 @@ button.navbar-toggler {
 .bikes .card {
   --bs-card-border-width: 0;
 }
+
+.contact input,
+.contact textarea,
+.contact button {
+  font-size: 1.39rem;
+}
+
+.address p {
+  font-size: 1.45rem;
+}
