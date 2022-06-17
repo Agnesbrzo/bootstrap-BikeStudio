@@ -20,7 +20,9 @@ body {
 .orange-color {
   color: rgb(255, 102, 0);
 }
-
+[id] {
+  scroll-margin-top: 83.5px;
+}
 /* nav */
 .navbar {
   background-color: #ddd;
@@ -107,4 +109,7 @@ button.navbar-toggler {
 
 .address p {
   font-size: 1.45rem;
+}
+footer {
+  font-size: 1.5rem;
 }
